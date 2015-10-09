@@ -2,7 +2,7 @@
 ### High School of Telecommunications Arts and Technology  
 ### Email: joannef3188@hstat.org
 
-I was born on July 19 in New York. I have one sibling that is a year younger than me and goes to Brooklyn Technical High School.
+I was born on **July 19** in New York. I have **one sibling** that is a year younger than me and goes to _Brooklyn Technical High School_.
 
 ### Schedule:  
 1. Software Engineering  
