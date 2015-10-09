@@ -15,7 +15,7 @@ I was born on **July 19** in New York. I have **one sibling** that is a year you
 8. Spanish
 
 ### Extracurricular Activities  
- -Swimming  
- -SAT Prep  
- -Dragon Boat  
- -Red Cross Club  
+ * Swimming  
+ * SAT Prep  
+ * Dragon Boat  
+ * Red Cross Club  
